@@ -1,0 +1,75 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+#built application files
+*.apk
+*.ap_
+*.aab
+                           
+# files for the dex VM
+*.dex
+                            
+# Java class files
+*.class
+                            
+# generated files
+bin/
+gen/
+                            
+# Local configuration file (sdk path, etc)
+local.properties
+                        
+# Windows thumbnail db
+Thumbs.db
+                
+# OSX files
+.DS_Store
+                            
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json 
+gradle*
+*.gradle
+
+#Inside app directory
+/app/build*
+/app/libs
+/app/proguard-rules.pro
+
+    
+#NDK
+obj/
+.externalNativeBuild
+
+
+app/src/androidTest/
+app/src/main/res/drawable-v24/
+app/src/main/res/drawable/ic_launcher_background.xml
+app/src/main/res/mipmap-anydpi-v26/
+app/src/main/res/mipmap-hdpi/
+app/src/main/res/mipmap-mdpi/
+app/src/main/res/mipmap-xhdpi/
+app/src/main/res/mipmap-xxhdpi/
+app/src/main/res/mipmap-xxxhdpi/
+app/src/main/res/values-night/
+app/src/main/res/values/
+app/src/test/
